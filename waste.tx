@@ -1,0 +1,10 @@
+/src
+├── /components      # UI components (stateless, reusable)
+├── /containers      # Stateful components (business logic + UI integration)
+├── /hooks           # Reusable custom hooks (state logic)
+├── /pages           # Next.js routes and pages
+├── /services        # API services (fetching data)
+├── /atoms           # Recoil atoms (or other state management logic)
+├── /styles          # Global CSS or Tailwind CSS files
+├── /types           # TypeScript types/interfaces
+└── /utils           # Utility functions/helpers
